@@ -1,6 +1,11 @@
-# My Dotfiles
-These are my dotfile configuration files fr different software in Bash.
-## .vimrc
-This is my custom .vimrc configuration for Vim.
-## .bashrc
-This is my custom .bashrc configuration for Bash.
+# .dotfiles
+
+This repository contains my personal development environment setup files and scripts.
+
+## Installing Tools:
+
+Run `make linux` to call the linux setup script.
+
+## Cleanup Tools:
+
+Run `make clean` to revert the changes made.
